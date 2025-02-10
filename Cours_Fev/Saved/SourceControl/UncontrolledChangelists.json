@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Projets/Unreal_Cours_Fev/Cours_Fev/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Projets/Unreal_Cours_Fev/Cours_Fev/Content/NewMap.umap"
+				"D:/Projets/Unreal_Cours_Fev/Cours_Fev/Content/NewMap.umap",
+				"D:/Projets/Unreal_Cours_Fev/Cours_Fev/Content/Import/SM_Door.uasset",
+				"D:/Projets/Unreal_Cours_Fev/Cours_Fev/Content/StarterContent/Props/SM_Door.uasset"
 			]
 		}
 	]
