@@ -1,1 +1,6 @@
-[0211/145238.633:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0214/125728.770:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0214/134029.729:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0214/134029.731:ERROR:cache_util.cc(144)] Unable to move cache folder D:/Projets/Unreal_Cours_Fev/Cours_Fev/Saved/webcache_4430\Cache to D:/Projets/Unreal_Cours_Fev/Cours_Fev/Saved/webcache_4430\old_Cache_000
+[0214/134029.731:ERROR:disk_cache.cc(184)] Unable to create cache
+[0214/134032.766:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0214/134228.420:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
