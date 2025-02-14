@@ -1,1 +1,4 @@
-[0214/135522.717:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0214/151600.615:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0214/151600.615:ERROR:entry_impl.cc(1075)] No file for c1030690
+[0214/151600.616:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/151756.942:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
